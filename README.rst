@@ -18,7 +18,7 @@ details:
 
         picture use link like this: ![picturename](picturelink)
 
-        inline code put in '`' and '`'
+        inline code put between two '`'
 
         headings begin with '#', numbers of '#' means the level of heading
         the first heading is the title, to be different, appended with a <hr>
@@ -29,4 +29,4 @@ details:
 
         '***' mean a <hr>
         
-        blockcode put between '```' and '```'
+        blockcode put between two '```'
